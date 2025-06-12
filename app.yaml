@@ -1,0 +1,6 @@
+name: Streamlit Dashboard
+language: python
+dockerfile: dockerfile
+runEntryPoint: main.py
+defaultFile: main.py
+libraryItemId: streamlit
