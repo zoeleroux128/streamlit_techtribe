@@ -6,6 +6,7 @@ demonstrates how to run a Streamlit dashboard that displays data.
 It connects to a websocket endpoint and shows the latest N records (based on timestamp) 
 as a line graph, where each column has its own line.
 
+
 ## How to run
 
 Create a [Quix](https://portal.platform.quix.io/signup?xlink=github) account or log-in and visit the Samples to use this project.
